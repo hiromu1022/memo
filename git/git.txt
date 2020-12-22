@@ -1,0 +1,2 @@
+remote対象を切り替える
+git remote set-url origin https://<ユーザ名>@github.com/<ユーザ名>/<リポジトリ名>.git
