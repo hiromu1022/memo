@@ -1,0 +1,5 @@
+reactnativeのadbでwifi経由接続でうまくつながらないとき
+
+
+adb emu kill
+adb reverse tcp:8081 tcp:8081
